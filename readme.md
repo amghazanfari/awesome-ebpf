@@ -169,6 +169,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 ## Tutorials
 
 - [eBPF Party](https://ebpf.party/) - Browser-based playground to learn, write, compile, and run eBPF programs.
+- [A Beginner's Guide to eBPF in Rust](https://github.com/amghazanfari/ebpf-beginner) - An eight-chapter, hands-on tutorial to learn eBPF with the Aya framework, covering kprobes, tracepoints, XDP, traffic control, maps, and a capstone agent project.
 - [bcc Reference Guide](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md) - Many incremental steps to start using bcc and eBPF, mostly centered on tracing and monitoring.
 - [bcc Python Developer Tutorial](https://github.com/iovisor/bcc/blob/master/docs/tutorial_bcc_python_developer.md) - Comes with bcc, but targets the Python bits across seventeen "lessons".
 - [Building BPF applications with libbpf-bootstrap](https://nakryiko.com/posts/libbpf-bootstrap/) - Helps generate minimal or advanced templates to bootstrap your own applications (kernel side and user space management for maps and programs) with features like CO-RE, global variables, and ring buffer.
